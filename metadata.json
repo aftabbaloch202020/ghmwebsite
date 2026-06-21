@@ -1,0 +1,6 @@
+{
+  "name": "GHM Fitness Club",
+  "description": "GHM Fitness Club - A premium, professional gym management and member platform with a luxury fitness branding, featuring membership registration, digital ID card generation, secure payments, and trainer and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
